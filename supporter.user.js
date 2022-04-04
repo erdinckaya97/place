@@ -12,8 +12,8 @@
 // @require      https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js
 // ==/UserScript==
 
-const X_OFFSET = 773
-const Y_OFFSET = 735
+const X_OFFSET = 473
+const Y_OFFSET = 435
 
 async function run() {
     let run = false
